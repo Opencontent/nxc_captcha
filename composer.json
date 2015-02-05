@@ -1,0 +1,23 @@
+{
+    "name": "opencontent/nxc_captcha-ls",
+    "description": "NXC Captcha (OpenContent Fork)",
+    "type": "ezpublish-legacy-extension",
+    "authors": [
+        {
+            "name": "SD / NXC International SA",
+            "homepage": "https://github.com/nxc/nxc_captcha"
+        },
+        {
+            "name": "OpenContent",
+            "homepage": "http://www.opencontent.it"
+        }
+    ],
+    "license": "GPL-2.0",    
+    "minimum-stability": "dev",
+    "require": {
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "nxc_captcha"
+    }
+}
